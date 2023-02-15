@@ -1,8 +1,8 @@
-# Making The Doc To Make The Grade
+# justAnswerTheQuestion
 
   ## Description
   
-  This project is to create a README generator that autofills a user's responses into a boilerplate README.md file.
+  This is a small coding quiz that tests the user's knowledge of basic coding.
   
   ## Table of Contents
   
@@ -14,14 +14,12 @@
   
   ## Installation
   
-  To install the project you need to download the modules using npm.
+  There is nothing to install. the quiz will prompt you from the start.
   
   ## Usage
   
-  Provide instructions and examples for use. the only instructions needed are withing this readme.
+  Provide instructions and examples for use. Follow the prompts and answer the questions.
   
-  The following is a link to a video of proper operation.
-  https://drive.google.com/file/d/1KDJHpPMoYq8YvLaAmLvmDB6t2fwWMKau/view
  
   ## License
   
@@ -33,5 +31,5 @@
   
   ## Questions
   
-  MY github username is thoufty and you can reach it here github.com/thoufty. For any other questions please email me[Tom Houf] at Thomasjhouf@gmail.com.
+  MY github username is Thoufty and you can reach it here github.com/Thoufty. For any other questions please email me[Tom Houf] at Thomasjhouf@gmail.com.
 
